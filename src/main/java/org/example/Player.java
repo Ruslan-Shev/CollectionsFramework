@@ -1,9 +1,9 @@
 package org.example;
 
-class Player {
-    int id;
-    String name;
-    int strength;
+public class Player {
+    public int id;
+    public String name;
+    public int strength;
 
     public Player(int id, String name, int strength) {
         this.id = id;
